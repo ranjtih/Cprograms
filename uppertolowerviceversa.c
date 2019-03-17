@@ -2,7 +2,6 @@
 
 int main(void) {
 char a[30];
-int b[30];
 int len,i;
 printf("enter the string\n");
 scanf("%s",a);
